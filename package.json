@@ -1,0 +1,26 @@
+{
+  "name": "euricocatumbela_6.github.io-master-2",
+  "version": "1.0.0",
+  "description": "[Creative](http://startbootstrap.com/template-overviews/creative/) is a one page creative theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/euricocatumbela/joshuaorganisationwebsite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/euricocatumbela/joshuaorganisationwebsite/issues"
+  },
+  "homepage": "https://github.com/euricocatumbela/joshuaorganisationwebsite#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  },
+  "devDependencies": {},
+  "keywords": []
+}
